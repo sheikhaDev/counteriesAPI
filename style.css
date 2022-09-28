@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:wght@700&family=Josefin+Sans&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,900;1,100;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    padding: 50px;
+    font-family: 'Amaranth', sans-serif;
+    background-image:url('background.jpg') ;
+    background-size: cover;
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    
+}
+h5
+ {
+    text-transform: uppercase;
+  }
+
+ 
+ .form-control{
+    border:none;
+    border-bottom: 2px solid #5bc0de    ;
+    border-radius: 70px ;
+   
+ }
+ #search-btn{
+    border-radius: 70px ;
+ }
+ .card{
+ 
+    background-color: #ffffff10;
+   
+ }
+ h3{
+    color: red;
+
+ }
+
+
+  
