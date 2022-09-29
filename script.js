@@ -14,7 +14,7 @@ searchBtn.addEventListener("click", () => {
         result.innerHTML = `
 
       
-        <div class="card" background-image: url("${data[0].flags.svg}")>
+        <div class="card animate__animated animate__slideInDown">
         <div class="card text-center">
         <div class="card-header">
         <h5 class="card-title"> ${data[0].name.common}</h5></div>
